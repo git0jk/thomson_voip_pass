@@ -11,14 +11,17 @@ Esta é a mentalidade dos cromos que administram o 'forum.zwame.pt', no qual dec
 
 Então decidi criar este git para ir esclarecendo esta ou outras duvidas que eu possa|saiba ajudar. Não esperem respostas rápidas, mas vou tentar. 
 
-Aqui ficam as ultimas mensagens que apagaram do forum (conversa imcompleta). Quem vê o outro dizer "GARANTO-TE a 100%" ou "tenho a CERTEZA QUE FUNCIONA ASSIM", espero que conclúa que este b0rd4 m3rd4 anda no forum a dizer isto pra voces pensarem ser mesmo verdade, e nem sequer tentarem. "MIND GAMES". But you should always remember this:
-    "Never believe a prediction. That doesn't empower you"                  <br>  ## Nunca acredites numa predição. Isso não te fortifica. <br>
-      https://www.youtube.com/watch?v=smjszXNTkoM
-
 ######################################
-Aqui podem ver o post já filtrado, onde a ultima resposta (post 106, que pode ser alterado a qualquer momento, claro) ficou novamente "Não consegues" (That doesn't empower you, remember? But it's the real purpose):
+No link seguinte podem ver o post já filtrado, onde a ultima resposta (post 106, que pode ser alterado a qualquer momento, claro) ficou novamente "Não consegues" (That doesn't empower you. But it's the real purpose):
 https://forum.zwame.pt/threads/como-trocar-router-da-meo-fibra.720871/page-6
 ######################################
+<br>
+E aqui ficam as ultimas mensagens que apagaram do forum (conversa imcompleta). Quem vê o outro dizer "GARANTO-TE a 100%" ou "tenho a CERTEZA QUE FUNCIONA ASSIM", espero que conclúa que este b0rd4 m3rd4 anda no forum a dizer isto pra voces pensarem ser mesmo verdade, e nem sequer tentarem. "MIND GAMES". But you should always remember this:<br>
+    "Never believe a prediction that doesn't empower you"                  <br>  ## Nunca acredites numa predição que não te fortifique. <br>
+      https://www.youtube.com/watch?v=smjszXNTkoM
+<br>
+
+###################################################################
 From: info@zwame.pt ZWAME Fórum 
 To:  
 Date: Tue, 22 Nov 2016 20:27:56 +0000 
