@@ -16,7 +16,7 @@ No link seguinte podem ver o post já filtrado, onde a ultima resposta (post 106
 https://forum.zwame.pt/threads/como-trocar-router-da-meo-fibra.720871/page-6
 ######################################
 <br>
-E aqui ficam as ultimas mensagens que apagaram do forum (conversa imcompleta). Quem vê o outro dizer "GARANTO-TE a 100%" ou "tenho a CERTEZA QUE FUNCIONA ASSIM", espero que conclúa que este b0rd4 m3rd4 anda no forum a dizer isto pra voces pensarem ser mesmo verdade, e nem sequer tentarem. "MIND GAMES". But you should always remember this:<br>
+E aqui ficam as ultimas mensagens que apagaram do forum (conversa imcompleta). Eles dizem que apagaram os Posts pela maneira como me dirigi a outro membro, mas toda a gente desconfia do real motivo, certo? (Até porque não apagaram só este ultimo POST, mas tambem, os outros 2 ou 3 onde estavam outras maneiras de o fazer. Logo volto a escrevê-las. Por fim, quem vê o outro dizer "GARANTO-TE a 100%" ou "tenho a CERTEZA QUE FUNCIONA ASSIM", espero que conclúa que este b0rd4 m3rd4 anda no forum a dizer isto pra voces pensarem ser mesmo verdade, e nem sequer tentarem. "MIND GAMES". But you should always remember this:<br>
     "Never believe a prediction that doesn't empower you"                  <br>  ## Nunca acredites numa predição que não te fortifique. <br>
       https://www.youtube.com/watch?v=smjszXNTkoM
 <br>
@@ -38,14 +38,15 @@ Se necessitar de mais informação, leia as Regras do Fórum e utilize o Contact
 
 
 ----------
+Vasila
 ----------
-## @_viri_TT_
 ## Sim!!! A password é trocada uma vez por dia, pelo menos! Diria que 2 vezes por dia pelo menos (tenho de fazer mais testes para verificar)... GARANTO-TE a 100% que Fibra Meo SingleEgde que a password de Voip é trocada PELO MENOS uma vez por dia.... Sei exactamente como é o processo, mas não o vou divulgar em público.... Não te vou dizer se é um serviço automático da meo ou se é de outra forma qualquer, só te digo que sim, é TROCADA pelo menos diariamente...
 ----------
 Tu nem sabes do que falas sequer. Estive a ler os teus post's anteriores e afirmo com toda a certeza, que nunca fizeste uma firmware na tua (curta) vida, bébé. E nunca usas-te um jtag. A tua ultima afirmação é sempre "mas não o vou divulgar em público....". Dizes que já crackaste as pass's do voip ("mas não o vou divulgar em público...."), mas nem sabes como se faz (muito menos como funciona). Só tretas..
 Devias parar de postar coisas sem sentido (e sempre limitadas ao "mas não o vou divulgar em público...."), que a seguir contradizes derivado á tua incerteza. Quando não sabes, não falas (ou pelo menos, não devias).
 
-
+----------
+Vasila
 ----------
 ## Esquece... A meo não a vai dar porque também não sabe ;)
 ## Não, não podes usar a passwd fora da rede fibra meo, simplesmente não autentica, dá timeout! deve haver uma firewall pelo caminho que bloqueia pedidos de IPs que não seja MEO fibra... Nem MEO ADSL, nem MEO 4G na mesma zona geográfica funciona! Dá timeout.... Isto também é garantido, já testei!
