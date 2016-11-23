@@ -9,14 +9,14 @@ dos que me rodeiam for alto, depois eu já não sou bom. Prefiro que eles sejam 
 
 Esta é a mentalidade dos cromos que administram o 'forum.zwame.pt', no qual decidi perder um pouco de tempo a esclarecer algumas duvidas técnicas ao povo Tuga, e no dia seguinte foi tudo apagado. Foi das poucas vezes que postei algo publicamente e esmerei-me a escrever, com o intuito de esclarecer as duvidas de uma vez por todas; duvidas tecnicas, que quem trabalha em redes/servers tem direito a saber. Houve tempos em que eu tambem não sabia, e alguem se ergueu pra mim, por isso queria pagar na mesma moeda. Ninguem me crackou passwords (e eu tambem não o fiz a ninguem (nem sei lol)), mas mostraram o que devia aprender/pesquisar para um dia o conseguir. Foi optimo pra mim, porque atrás disso veio tudo o q sei hoje (que sinceramente, não é muito, mas..)
 
-Então decidi criar este git para ir esclarecendo esta ou outras duvidas que eu possa|saiba ajudar. Não esperem respostas rápidas, mas vou tentar.
+Então decidi criar este git para ir esclarecendo esta ou outras duvidas que eu possa|saiba ajudar. Não esperem respostas rápidas, mas vou tentar. 
 
-Aqui ficam as ultimas mensagens que apagaram do forum (conversa imcompleta). Quando vêm o outro dizer "GARANTO-TE a 100%" ou "tenho a CERTEZA QUE FUNCIONA ASSIM", espero que toda a gente conclúa que este borda merda anda no forum a dizer isto pra voces pensarem ser mesmo verdade, e nem sequer tentarem. "MIND GAMES". But you should always remember this:
-    "Never believe a prediction. That doesn't empower you"                    ## Nunca acredites numa predição. Isso não te fortifica.
+Aqui ficam as ultimas mensagens que apagaram do forum (conversa imcompleta). Quem vê o outro dizer "GARANTO-TE a 100%" ou "tenho a CERTEZA QUE FUNCIONA ASSIM", espero que conclúa que este b0rd4 m3rd4 anda no forum a dizer isto pra voces pensarem ser mesmo verdade, e nem sequer tentarem. "MIND GAMES". But you should always remember this:
+    "Never believe a prediction. That doesn't empower you"                  <br>  ## Nunca acredites numa predição. Isso não te fortifica. <br>
       https://www.youtube.com/watch?v=smjszXNTkoM
 
 ######################################
-Aqui podem ver o post já filtrado, onde a ultima resposta (post 106, que pode ser alterado a qualquer momento, claro) ficou novamente "Não consegues" (but that doesn't empower you):
+Aqui podem ver o post já filtrado, onde a ultima resposta (post 106, que pode ser alterado a qualquer momento, claro) ficou novamente "Não consegues" (That doesn't empower you, remember? But it's the real purpose):
 https://forum.zwame.pt/threads/como-trocar-router-da-meo-fibra.720871/page-6
 ######################################
 From: info@zwame.pt ZWAME Fórum 
