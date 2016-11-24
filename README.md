@@ -32,35 +32,31 @@ yyyyyyyyyyya, Sacripanta começou uma conversa pessoal contigo em ZWAME Fórum:
 "Recebeu um Aviso"
 
 Esta é a mensagem colocada:
-----------------------------------------------------------------------
+
 yyyyyyyyyyya, informamos que recebeu um aviso pela forma como se dirigiu a outro membro.
 Se necessitar de mais informação, leia as Regras do Fórum e utilize o Contacte o Staff.
 
 
-----------
-Vasila
-----------
-## Sim!!! A password é trocada uma vez por dia, pelo menos! Diria que 2 vezes por dia pelo menos (tenho de fazer mais testes para verificar)... GARANTO-TE a 100% que Fibra Meo SingleEgde que a password de Voip é trocada PELO MENOS uma vez por dia.... Sei exactamente como é o processo, mas não o vou divulgar em público.... Não te vou dizer se é um serviço automático da meo ou se é de outra forma qualquer, só te digo que sim, é TROCADA pelo menos diariamente...
-----------
+@Vasila
+> Sim!!! A password é trocada uma vez por dia, pelo menos! Diria que 2 vezes por dia pelo menos (tenho de fazer mais testes para verificar)... GARANTO-TE a 100% que Fibra Meo SingleEgde que a password de Voip é trocada PELO MENOS uma vez por dia.... Sei exactamente como é o processo, mas não o vou divulgar em público.... Não te vou dizer se é um serviço automático da meo ou se é de outra forma qualquer, só te digo que sim, é TROCADA pelo menos diariamente...
+
 Tu nem sabes do que falas sequer. Estive a ler os teus post's anteriores e afirmo com toda a certeza, que nunca fizeste uma firmware na tua (curta) vida, bébé. E nunca usas-te um jtag. A tua ultima afirmação é sempre "mas não o vou divulgar em público....". Dizes que já crackaste as pass's do voip ("mas não o vou divulgar em público...."), mas nem sabes como se faz (muito menos como funciona). Só tretas..
 Devias parar de postar coisas sem sentido (e sempre limitadas ao "mas não o vou divulgar em público...."), que a seguir contradizes derivado á tua incerteza. Quando não sabes, não falas (ou pelo menos, não devias).
 
-----------
-Vasila
-----------
-## Esquece... A meo não a vai dar porque também não sabe ;)
-## Não, não podes usar a passwd fora da rede fibra meo, simplesmente não autentica, dá timeout! deve haver uma firewall pelo caminho que bloqueia pedidos de IPs que não seja MEO fibra... Nem MEO ADSL, nem MEO 4G na mesma zona geográfica funciona! Dá timeout.... Isto também é garantido, já testei!
-----------
+@Vasila
+> Esquece... A meo não a vai dar porque também não sabe ;)
+> Não, não podes usar a passwd fora da rede fibra meo, simplesmente não autentica, dá timeout! deve haver uma firewall pelo caminho que bloqueia pedidos de IPs que não seja MEO fibra... Nem MEO ADSL, nem MEO 4G na mesma zona geográfica funciona! Dá timeout.... Isto também é garantido, já testei!
+
 É o que eu digo.. Tu não sabes do que falas. Quando te digo para meteres lá a vlan12, continuas dentro da rede meo, e com IP portugues. Se precisares faço-te um desenho. Mas se aprenderes o que é uma vlan primeiro, vais entender. Até lá... bons estudos
 ""A meo tambem não a sabe"" ?? então quem sabe as pass's da meo? é a vodafone? Não sabem a actual, mas alteram para a que quiserem, e afinal (como que por magia) já sabem. Não???  mas tambem não sabias disso. Já nem importa, tás perdoado por tudo o que dizes
 
 
 
-----------
-## Faz toda a lógica não ter a cleartext neste caso!
-## Quando querem conferir se a pass é a correcta apenas fazem match das cifras!
-## Tu não envias cleartext quanto queres autenticar, envias sim a cifrada!
-----------
+
+>Faz toda a lógica não ter a cleartext neste caso!
+> Quando querem conferir se a pass é a correcta apenas fazem match das cifras!
+> Tu não envias cleartext quanto queres autenticar, envias sim a cifrada!
+
 Isso está certo, na possibilidade de funcionar como referi anteriormente. Não acredito muito que assim seja.
 Mas o funcionamento normal é cleartext (que pode passar num tunnel cifrado, mas "sai" na outra ponta do tunnel e é confrontada contra o serviço em causa, já em cleartext (isto passa-se dentro do cpu do router claro). Mas no final entregas sempre cleartext ao serviço, ele calcula o MD5, e confronta-o com o MD5 que já tem guardado)     -----PS: ou pode nem ter de calcular o MD5, dependendo de como a meo armazena as nossas credenciais. Mas vamos partir do principio q estão encriptadas ;)
 
@@ -87,8 +83,3 @@ https://forum.zwame.pt/conversations/
 ----------------------------------------------------------------------
 
 Esta mensagem foi enviada do ZWAME Fórum porque as tuas preferências estão definidas para receber um email quando é recebida uma mensagem pessoal.
-
-Para deixares de receber emails, por favor edita as preferências de contacto:
-https://forum.zwame.pt/account/contact-details
-
-https://forum.zwame.pt/
