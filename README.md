@@ -18,7 +18,7 @@ https://forum.zwame.pt/threads/como-trocar-router-da-meo-fibra.720871/page-6
 <br>
 E aqui ficam as ultimas mensagens que apagaram do forum (conversa imcompleta). Eles dizem que apagaram os Posts pela maneira como me dirigi a outro membro, mas toda a gente desconfia do real motivo, certo? (Até porque não apagaram só este ultimo POST, mas tambem, os outros 2 ou 3 onde estavam outras maneiras de o fazer. Logo volto a escrevê-las. Por fim, quem vê o outro dizer "GARANTO-TE a 100%" ou "tenho a CERTEZA QUE FUNCIONA ASSIM", espero que conclúa que este b0rd4 m3rd4 anda no forum a dizer isto pra voces pensarem ser mesmo verdade, e nem sequer tentarem. "MIND GAMES". But you should always remember this:<br>
     "Never believe a prediction that doesn't empower you"                  <br>  ## Nunca acredites numa predição que não te fortifique. <br>
-      https://www.youtube.com/watch?v=smjszXNTkoM
+      https://www.youtube.com/watch?v=smjszXNTkoM (para quem não perceber inglês, ele diz que quando nasceu, os "Doutores" disseram aos pais dele, que iria morrer nas primeiras 24horas de vida. 35 anos depois, todos esses "Doutores" estão mortos... e ele é o unico Doutor vivo.) hehehe 'de TOP'
 <br>
 
 ###################################################################
