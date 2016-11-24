@@ -1,1 +1,8 @@
 
+1)Com o link da WAN - ONT ligado num switch ou hub, criar um servidor voip e configura-lo na mesma subnet da WAN
+2)No thomson, alteram o endereço do servidor VOIP do ISP, para o IP do vosso servidor.
+3)Por ultimo, é ver se há logins falhados e ver no LOG a password
+
+É claro que o servidor tem de levar uns ajustes para isso, mas fica a ideia. So simple
+
+Quem não tiver hub ou switch, pode ligar o PC directo na WAN do router (configurando a interface em trunk), mas lembrem-se de primeiro ligar o router ao ISP para ele descarregar a configuração inicial e só depois é que alteram o IP do servidor voip para o do vosso PC. Na eventualidade do serviço voip não estar fidelizado á porta WAN (não posso confirmar), talvez seja ainda possivel ligar o servidor voip directo na LAN.
