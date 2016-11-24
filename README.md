@@ -61,11 +61,12 @@ Isso está certo, na possibilidade de funcionar como referi anteriormente. Não 
 Mas o funcionamento normal é cleartext (que pode passar num tunnel cifrado, mas "sai" na outra ponta do tunnel e é confrontada contra o serviço em causa, já em cleartext (isto passa-se dentro do cpu do router claro). Mas no final entregas sempre cleartext ao serviço, ele calcula o MD5, e confronta-o com o MD5 que já tem guardado)     -----PS: ou pode nem ter de calcular o MD5, dependendo de como a meo armazena as nossas credenciais. Mas vamos partir do principio q estão encriptadas ;)
 
 
-
-Já agora, vou dar ainda mais uma alternativa de sniffar a pass voip e que deve ser a mais acessivel para quem não tem os cabos serial.
-1)Com o link da WAN - ONT ligado num switch ou hub, criar um servidor voip e configura-lo na mesma subnet da WAN
-2)No thomson, alteram o endereço do servidor VOIP MEO para o IP que configuraram anteriormente.
-3)Por ultimo, é ver os logins falhados e ver no LOG a password
+----------
+Já agora, vou dar ainda mais uma alternativa de sniffar a pass voip e que deve ser a mais acessivel para quem não tem os cabos serial. <br>
+1)Com o link da WAN - ONT ligado num switch ou hub, criar um servidor voip e configura-lo na mesma subnet da WAN<br>
+2)No thomson, alteram o endereço do servidor VOIP MEO para o IP que configuraram anteriormente.<br>
+3)Por ultimo, é ver os logins falhados e ver no LOG a password<br>
+----------
 
 É claro que o servidor tem de levar uns ajustes para isso, mas fica a ideia. So simple
 
