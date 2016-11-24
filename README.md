@@ -7,7 +7,7 @@ Infelizmente Portugal é um país ainda retrogado e mesquinha, feito de bebés c
 e com toda a tendência para nivelar conhecimentos, sempre pelo mais burro. Tipo: "se o nivel de conhecimento
 dos que me rodeiam for alto, depois eu já não sou bom. Prefiro que eles sejam burros para me destacar".
 
-Esta é a mentalidade dos cromos que administram o 'forum.zwame.pt', no qual decidi perder um pouco de tempo a esclarecer algumas duvidas técnicas ao povo Tuga, e no dia seguinte foi tudo apagado. Foi das poucas vezes que postei algo publicamente e esmerei-me a escrever, com o intuito de esclarecer as duvidas de uma vez por todas; duvidas tecnicas, que quem trabalha em redes/servers tem direito a saber. Houve tempos em que eu tambem não sabia, e alguem se ergueu pra mim, por isso queria pagar na mesma moeda. Ninguem me crackou passwords (e eu tambem não o fiz a ninguem (nem sei lol)), mas mostraram o que devia aprender/pesquisar para um dia o conseguir. Foi optimo pra mim, porque atrás disso veio tudo o q sei hoje (que sinceramente, não é muito, mas..)
+Esta é tambem a mentalidade de quem administra o 'forum.zwame.pt', no qual decidi perder um pouco de tempo a esclarecer algumas duvidas técnicas ao povo Tuga, e no dia seguinte foi tudo apagado. Foi das poucas vezes que postei algo e esmerei-me a escrever, com o intuito de esclarecer as duvidas de uma vez por todas; duvidas tecnicas, que quem trabalha em redes/servers tem direito de saber. Não é qualquer um que vai conseguir ligar um jtag, criar um servidor voip, ou mesmo saber o que é uma vlan. Houve tempos em que eu tambem não sabia, e alguem me indicou o caminho, por isso queria pagar na mesma moeda. Ninguem me crackou passwords (e eu tambem não o fiz a ninguem (nem sei lol)), mas mostraram o que devia aprender/pesquisar para um dia o conseguir. Foi optimo pra mim, porque atrás disso veio tudo o q sei hoje (que sinceramente, não é muito, mas..)
 
 Então decidi criar este git para ir esclarecendo esta ou outras duvidas que eu possa|saiba ajudar. Não esperem respostas rápidas, mas vou tentar. 
 
@@ -16,9 +16,9 @@ No link seguinte podem ver o post já filtrado, onde a ultima resposta (post 106
 https://forum.zwame.pt/threads/como-trocar-router-da-meo-fibra.720871/page-6
 ######################################
 <br>
-E aqui ficam as ultimas mensagens que apagaram do forum (conversa imcompleta). Eles dizem que apagaram os Posts pela maneira como me dirigi a outro membro, mas toda a gente desconfia do real motivo, certo? (Até porque não apagaram só este ultimo POST, mas tambem, os outros 2 ou 3 onde estavam outras maneiras de o fazer. Logo volto a escrevê-las. Por fim, quem vê o outro dizer "GARANTO-TE a 100%" ou "tenho a CERTEZA QUE FUNCIONA ASSIM", espero que conclúa que este b0rd4 m3rd4 anda no forum a dizer isto pra voces pensarem ser mesmo verdade, e nem sequer tentarem. "MIND GAMES". But you should always remember this:<br>
+E aqui fica a ultima mensagem que apagaram do forum (conversa imcompleta). Eles dizem que apagaram os Posts pela maneira como me dirigi a outro membro, mas toda a gente desconfia do real motivo, certo? (Até porque não apagaram só este ultimo POST, mas tambem, os outros 2 ou 3 onde estavam outras maneiras de o fazer. Logo volto a escrevê-las. Por fim, quem vê o outro dizer "GARANTO-TE a 100%" ou "tenho a CERTEZA QUE FUNCIONA ASSIM", espero que conclúa que este b0rd4 m3rd4 anda no forum a dizer isto pra voces pensarem ser mesmo verdade, e nem sequer tentarem. "MIND GAMES". But you should always remember:<br>
     "Never believe a prediction that doesn't empower you"                  <br>  ## Nunca acredites numa predição que não te dê força. <br>
-      https://www.youtube.com/watch?v=smjszXNTkoM (para quem não perceber inglês, ele diz que quando nasceu, os "Doutores" disseram aos pais dele, que iria morrer nas primeiras 24horas de vida. 35 anos depois, todos esses "Doutores" estão mortos... e ele é o unico Doutor vivo.) hehehe 'de TOP'
+      https://www.youtube.com/watch?v=ktPMB2k_5mk (para quem não perceber inglês, aos 50 segundos, ele diz que quando nasceu, os "Doutores" disseram aos pais dele, que iria morrer nas primeiras 24horas de vida. 35 anos depois, todos esses "Doutores" estão mortos... e ele é o unico Doutor vivo.) hehehe. Nunca desistam
 <br>
 
 ###################################################################
@@ -37,13 +37,13 @@ yyyyyyyyyyya, informamos que recebeu um aviso pela forma como se dirigiu a outro
 Se necessitar de mais informação, leia as Regras do Fórum e utilize o Contacte o Staff.
 
 
-@Vasila
+>@Vasila
 > Sim!!! A password é trocada uma vez por dia, pelo menos! Diria que 2 vezes por dia pelo menos (tenho de fazer mais testes para verificar)... GARANTO-TE a 100% que Fibra Meo SingleEgde que a password de Voip é trocada PELO MENOS uma vez por dia.... Sei exactamente como é o processo, mas não o vou divulgar em público.... Não te vou dizer se é um serviço automático da meo ou se é de outra forma qualquer, só te digo que sim, é TROCADA pelo menos diariamente...
 
 Tu nem sabes do que falas sequer. Estive a ler os teus post's anteriores e afirmo com toda a certeza, que nunca fizeste uma firmware na tua (curta) vida, bébé. E nunca usas-te um jtag. A tua ultima afirmação é sempre "mas não o vou divulgar em público....". Dizes que já crackaste as pass's do voip ("mas não o vou divulgar em público...."), mas nem sabes como se faz (muito menos como funciona). Só tretas..
 Devias parar de postar coisas sem sentido (e sempre limitadas ao "mas não o vou divulgar em público...."), que a seguir contradizes derivado á tua incerteza. Quando não sabes, não falas (ou pelo menos, não devias).
 
-@Vasila
+>@Vasila
 > Esquece... A meo não a vai dar porque também não sabe ;)
 > Não, não podes usar a passwd fora da rede fibra meo, simplesmente não autentica, dá timeout! deve haver uma firewall pelo caminho que bloqueia pedidos de IPs que não seja MEO fibra... Nem MEO ADSL, nem MEO 4G na mesma zona geográfica funciona! Dá timeout.... Isto também é garantido, já testei!
 
@@ -52,7 +52,7 @@ Devias parar de postar coisas sem sentido (e sempre limitadas ao "mas não o vou
 
 
 
-
+>@
 >Faz toda a lógica não ter a cleartext neste caso!
 > Quando querem conferir se a pass é a correcta apenas fazem match das cifras!
 > Tu não envias cleartext quanto queres autenticar, envias sim a cifrada!
@@ -73,7 +73,7 @@ Já agora, vou dar ainda mais uma alternativa de sniffar a pass voip e que deve 
 
 É claro que o servidor tem de levar uns ajustes para isso, mas fica a ideia. So simple
 
-Quem não tiver hub ou switch, é claro que podem ligar o vosso PC directo na WAN do router (se o souberem configurar), mas lembrem-se de primeiro ligar o router á meo para ele descarregar a configuração inicial e só depois é que alteram o IP do servidor voip para o do vosso PC. Na eventualidade do serviço voip não estar fidelizado á porta WAN (não posso confirmar), talvez seja ainda possivel configura-lo num IP da LAN. Queria ter aqui um thomson para confirmar isso, mas não. Vou arranjar um, e quando tiver tempo faço um tutorial das varias maneiras de se conseguir isso. Mas vai demora.........r
+Quem não tiver hub ou switch, é claro que podem ligar o vosso PC directo na WAN do router (se o souberem configurar), mas lembrem-se de primeiro ligar o router á meo para ele descarregar a configuração inicial e só depois é que alteram o IP do servidor voip para o do vosso PC. Na eventualidade do serviço voip não estar fidelizado á porta WAN (não posso confirmar), talvez seja ainda possivel configura-lo num IP da LAN. Queria ter aqui um thomson para confirmar isso, mas não. Vou arranjar um, e quando tiver tempo faço um tutorial das varias maneiras de se conseguir isso. Mas vai demora.........r.
 E acho que devemos discutir isto no git e ir guardando/actualizando os softwares e as configs que devem ser feitas
 
 
