@@ -63,8 +63,11 @@ Mas o funcionamento normal é cleartext (que pode passar num tunnel cifrado, mas
 
 ----------
 Já agora, vou dar ainda mais uma alternativa de sniffar a pass voip e que deve ser a mais acessivel para quem não tem os cabos serial. <br>
+----------
 1)Com o link da WAN - ONT ligado num switch ou hub, criar um servidor voip e configura-lo na mesma subnet da WAN<br>
+----------
 2)No thomson, alteram o endereço do servidor VOIP MEO para o IP que configuraram anteriormente.<br>
+----------
 3)Por ultimo, é ver os logins falhados e ver no LOG a password<br>
 ----------
 
@@ -72,6 +75,10 @@ Já agora, vou dar ainda mais uma alternativa de sniffar a pass voip e que deve 
 
 Quem não tiver hub ou switch, é claro que podem ligar o vosso PC directo na WAN do router (se o souberem configurar), mas lembrem-se de primeiro ligar o router á meo para ele descarregar a configuração inicial e só depois é que alteram o IP do servidor voip para o do vosso PC. Na eventualidade do serviço voip não estar fidelizado á porta WAN (não posso confirmar), talvez seja ainda possivel configura-lo num IP da LAN. Queria ter aqui um thomson para confirmar isso, mas não. Vou arranjar um, e quando tiver tempo faço um tutorial das varias maneiras de se conseguir isso. Mas vai demora.........r
 E acho que devemos discutir isto no git e ir guardando/actualizando os softwares e as configs que devem ser feitas
+
+
+
+
 ----------
 ----------------------------------------------------------------------
 
