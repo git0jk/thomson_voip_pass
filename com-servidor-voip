@@ -5,4 +5,7 @@
 
 É claro que o servidor tem de levar uns ajustes para isso, mas fica a ideia. So simple
 
-Quem não tiver hub ou switch, pode ligar o PC directo na WAN do router (configurando a interface em trunk), mas lembrem-se de primeiro ligar o router ao ISP para ele descarregar a configuração inicial e só depois é que alteram o IP do servidor voip para o do vosso PC. Na eventualidade do serviço voip não estar fidelizado á porta WAN (não posso confirmar), talvez seja ainda possivel ligar o servidor voip directo na LAN.
+Quem não tiver hub ou switch, pode ligar o PC directo na WAN do router (configurando a interface em trunk), 
+mas lembrem-se de primeiro ligar o router ao ISP para ele descarregar a configuração inicial e só depois é 
+que alteram o IP do servidor voip para o do vosso PC. Na eventualidade do serviço voip não estar fidelizado
+á porta WAN (não posso confirmar), talvez seja ainda possivel ligar o servidor directo na LAN.
