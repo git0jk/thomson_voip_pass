@@ -25,6 +25,7 @@ E aqui fica a ultima mensagem que apagaram do forum (conversa imcompleta). Eles 
     "Never believe a prediction that doesn't empower you"                  <br>  ## Nunca acredites numa predição que não te dê força. <br>
       https://www.youtube.com/watch?v=ktPMB2k_5mk (para quem não perceber inglês, aos 50 segundos, ele diz que quando nasceu, os "Doutores" disseram aos pais dele, que iria morrer nas primeiras 24horas de vida. 35 anos depois, todos esses "Doutores" estão mortos... e ele é o unico Doutor vivo.) hehehe. Nunca desistam
 <br>
+'..wish you freedom...
 
 ----------------------------------------------------------------------
 ###################################################################
